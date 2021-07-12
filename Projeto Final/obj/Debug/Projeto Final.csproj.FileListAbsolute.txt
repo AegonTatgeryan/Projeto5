@@ -1,0 +1,24 @@
+C:\Users\Conferi's\source\repos\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe.config
+C:\Users\Conferi's\source\repos\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe
+C:\Users\Conferi's\source\repos\Projeto Final\Projeto Final\bin\Debug\Projeto Final.pdb
+C:\Users\Conferi's\source\repos\Projeto Final\Projeto Final\obj\Debug\Projeto Final.csproj.AssemblyReference.cache
+C:\Users\Conferi's\source\repos\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Form1.resources
+C:\Users\Conferi's\source\repos\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Properties.Resources.resources
+C:\Users\Conferi's\source\repos\Projeto Final\Projeto Final\obj\Debug\Projeto Final.csproj.GenerateResource.cache
+C:\Users\Conferi's\source\repos\Projeto Final\Projeto Final\obj\Debug\Projeto Final.csproj.CoreCompileInputs.cache
+C:\Users\Conferi's\source\repos\Projeto Final\Projeto Final\obj\Debug\Projeto Final.exe
+C:\Users\Conferi's\source\repos\Projeto Final\Projeto Final\obj\Debug\Projeto Final.pdb
+C:\Users\Conferi's\source\repos\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.FrmMenu.resources
+C:\Users\Conferi's\source\repos\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.FrmGrid.resources
+C:\Users\Conferi's\source\repos\Formul-rioC-L-arquivo-csv-master\Projeto Final\bin\Debug\Projeto Final.exe.config
+C:\Users\Conferi's\source\repos\Formul-rioC-L-arquivo-csv-master\Projeto Final\bin\Debug\Projeto Final.exe
+C:\Users\Conferi's\source\repos\Formul-rioC-L-arquivo-csv-master\Projeto Final\bin\Debug\Projeto Final.pdb
+C:\Users\Conferi's\source\repos\Formul-rioC-L-arquivo-csv-master\Projeto Final\obj\Debug\Projeto_Final.Form1.resources
+C:\Users\Conferi's\source\repos\Formul-rioC-L-arquivo-csv-master\Projeto Final\obj\Debug\Projeto_Final.FrmMenu.resources
+C:\Users\Conferi's\source\repos\Formul-rioC-L-arquivo-csv-master\Projeto Final\obj\Debug\Projeto_Final.FrmGrid.resources
+C:\Users\Conferi's\source\repos\Formul-rioC-L-arquivo-csv-master\Projeto Final\obj\Debug\Projeto_Final.Properties.Resources.resources
+C:\Users\Conferi's\source\repos\Formul-rioC-L-arquivo-csv-master\Projeto Final\obj\Debug\Projeto Final.csproj.GenerateResource.cache
+C:\Users\Conferi's\source\repos\Formul-rioC-L-arquivo-csv-master\Projeto Final\obj\Debug\Projeto Final.csproj.CoreCompileInputs.cache
+C:\Users\Conferi's\source\repos\Formul-rioC-L-arquivo-csv-master\Projeto Final\obj\Debug\Projeto Final.exe
+C:\Users\Conferi's\source\repos\Formul-rioC-L-arquivo-csv-master\Projeto Final\obj\Debug\Projeto Final.pdb
+C:\Users\Conferi's\source\repos\Formul-rioC-L-arquivo-csv-master\Projeto Final\obj\Debug\Projeto Final.csproj.AssemblyReference.cache
